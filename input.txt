@@ -1,0 +1,17 @@
+Client1
+123456789
+Strada Exemplu
+12
+Bucuresti
+2025-04-30
+2
+Pizza
+Pizza Margherita
+30.5
+Mare
+Mozzarella, Rosii, Ulei de masline
+Pizza
+Pizza Pepperoni
+35.0
+Medie
+Pepperoni, Mozzarella, Ulei de masline
